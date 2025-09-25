@@ -1,7 +1,7 @@
 name: flutter_blue_plus
 description: Flutter plugin for connecting and communicating with Bluetooth Low Energy devices.
 version: 2.0.0
-homepage: https://github.com/chipweinberger/flutter_blue_plus
+homepage:  https://github.com/Vineet-0101/flutter_blue_plus
 
 environment:
   sdk: ^3.0.0
@@ -28,10 +28,10 @@ dependencies:
       url: https://github.com/Vineet-0101/flutter_blue_plus.git
       path: packages/flutter_blue_plus_darwin
   flutter_blue_plus_linux:
-      git:
+    git:
       url: https://github.com/Vineet-0101/flutter_blue_plus.git
       path: packages/flutter_blue_plus_linux
-  flutter_blue_plus_web:    
+  flutter_blue_plus_web:
     git:
       url: https://github.com/Vineet-0101/flutter_blue_plus.git
       path: packages/flutter_blue_plus_web
